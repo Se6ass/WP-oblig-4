@@ -1,0 +1,55 @@
+
+#Info {
+	border: 1px solid black;
+}
+
+#Info-tekst { 
+	overflow: hidden
+
+}
+
+#Info-bilde{
+	width:40%;
+	float:right;
+
+}
+
+#Library {
+	border: 1px solid black;
+	
+}
+
+#Bibliotek {
+	overflow: hidden
+}
+
+#Library-img{
+	width:40%;
+	float:left;
+
+}
+
+#Settings{
+	border: 1px solid black;
+
+}
+
+#Innstillinger{
+	overflow: hidden
+
+}
+
+#Innstillinger-bilde {
+	width:40%;
+	float:right;
+}
+
+#Footer {
+position: relative;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  padding: 1rem;
+  background-color: #efefef;
+  text-align: center;
+}
